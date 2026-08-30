@@ -111,33 +111,41 @@ I'm currently working on frontend projects that help me improve:
 </table>
 
 <br>
-
-### 🚀 Featured Project
+<h2>🚀 Featured Project</h2>
 
 <table>
   <tr>
     <td width="100%" valign="top">
 
-### Photo Gallery Website
+<h3>📸 Photo Gallery Website</h3>
 
+<p>
 Responsive image gallery built for desktop, tablet, and mobile.
+</p>
 
-**Highlights**
-- Smooth scrolling
-- Scroll-based animations
-- Interactive image sections
-- Responsive layout
-- GSAP + ScrollTrigger
-- Locomotive Scroll
+<p><strong>Highlights</strong></p>
 
-**Built With**
+<ul>
+  <li>Smooth scrolling</li>
+  <li>Scroll-based animations</li>
+  <li>Interactive image sections</li>
+  <li>Responsive layout</li>
+</ul>
 
-`HTML5` `CSS3` `JavaScript` `GSAP` `ScrollTrigger` `Locomotive Scroll`
+<p><strong>Built With</strong></p>
+
+<p>
+  <code>HTML5</code>
+  <code>CSS3</code>
+  <code>JavaScript</code>
+  <code>GSAP</code>
+  <code>ScrollTrigger</code>
+  <code>Locomotive Scroll</code>
+</p>
 
     </td>
   </tr>
 </table>
-
 <br>
 
 ### 🧰 Toolbox
