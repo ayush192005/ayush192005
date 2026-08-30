@@ -16,13 +16,13 @@
 
 <p align="center">
   <a href="YOUR-PORTFOLIO-URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="YOUR-LINKEDIN-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/ayush192005">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 <br>
