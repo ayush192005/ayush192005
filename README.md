@@ -1,195 +1,55 @@
-<div align="center">
-
-<h1>👋 Hi, I'm Ayush Kumar Bansal</h1>
-
-<h3>Frontend Developer | Creative Web Experiences</h3>
-
-<p>
-I build responsive and interactive websites with a strong focus on<br>
-visual design, animations, and user experience.
+<h1 align="center">Hi, I'm Ayush 👋</h1>
+<h3 align="center">Software Developer | Python · SQL · Web Development</h3>
+<p align="center">
+  Final-year BCA student building practical, project-based work across web development, databases, and applied Python — currently exploring backend and data-driven tools.
 </p>
 
-<p>
-Currently focused on improving my frontend development skills through<br>
-real-world projects and consistent practice.
+---
+
+### 🚀 About Me
+- 🎓 Final-year BCA student, Kurukshetra University
+- 💻 Working with **HTML, CSS, Bootstrap, Python, and PostgreSQL**
+- 🗄️ Comfortable with SQL fundamentals — window functions, CTEs, indexing, and query optimization
+- 🌱 Learning by building — dashboards, utilities, and full websites rather than just theory
+- 📍 Based in Haryana, India — open to Software Development / Web Development roles
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-</div>
+---
 
-<h2>👨‍💻 About Me</h2>
+### 🎯 Featured Projects
+| Project | Description | Stack |
+|---|---|---|
+| **[SKYVUE](#)** | AI-powered weather dashboard using the Claude API with live web search for real-time data | HTML, CSS, JS, Claude API |
+| **[DupeClear](#)** | Web app for detecting and removing duplicate rows from datasets | Python, Pandas |
+| **[Portfolio Website](#)** | Personal portfolio built from a structured layout — Hero, About, Skills, Projects, Education, Contact | HTML, CSS, Bootstrap 5 |
 
-<ul>
-  <li>🎓 Graduate of <strong>Kurukshetra University</strong>.</li>
-  <li>💻 I build <strong>responsive, interactive web experiences</strong>.</li>
-  <li>✨ I enjoy working with <strong>JavaScript, GSAP & ScrollTrigger</strong>.</li>
-  <li>🧩 I learn by <strong>building, breaking, debugging, and rebuilding</strong>.</li>
-  <li>🎯 I care about <strong>clean code, good design, and purposeful animation</strong>.</li>
-</ul>
+---
 
-<h2>🎯 What I'm Focused On</h2>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 💻 Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Design
-- Semantic HTML
-- Clean Code
-
-    </td>
-    <td width="50%" valign="top">
-
-### ✨ Creative UI
-
-- GSAP
-- ScrollTrigger
-- Smooth Scrolling
-- Scroll Animations
-- Interactive UI
-- Micro-interactions
-
-    </td>
-  </tr>
-</table>
-<h2>⚙️ How I Build</h2>
-
-<p>I usually approach a project in this order:</p>
-
-<table>
-  <tr>
-    <td><strong>01</strong></td>
-    <td><strong>Plan</strong></td>
-    <td>Define the idea, layout, content, and user flow.</td>
-  </tr>
-  <tr>
-    <td><strong>02</strong></td>
-    <td><strong>Structure</strong></td>
-    <td>Build semantic HTML before adding visual details.</td>
-  </tr>
-  <tr>
-    <td><strong>03</strong></td>
-    <td><strong>Design</strong></td>
-    <td>Create responsive layouts with clear visual hierarchy.</td>
-  </tr>
-  <tr>
-    <td><strong>04</strong></td>
-    <td><strong>Interaction</strong></td>
-    <td>Add JavaScript and animations where they improve UX.</td>
-  </tr>
-  <tr>
-    <td><strong>05</strong></td>
-    <td><strong>Refine</strong></td>
-    <td>Test responsiveness, fix issues, optimize, and clean the code.</td>
-  </tr>
-</table>
-
-<h2>🛠️ Currently Building</h2>
-
-<p>I'm currently working on frontend projects that help me improve:</p>
-
-<table>
-  <tr>
-    <td>📱 Responsive Layouts</td>
-    <td>🎨 Advanced CSS</td>
-  </tr>
-  <tr>
-    <td>⚡ JavaScript Interactions</td>
-    <td>✨ GSAP Animations</td>
-  </tr>
-  <tr>
-    <td>🖱️ Scroll-Based Experiences</td>
-    <td>🌐 Real-World UI</td>
-  </tr>
-</table>
-
-<h2>🚀 Featured Projects</h2>
-
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Technologies</th>
-  </tr>
-  <tr>
-    <td><strong>Photo Gallery</strong></td>
-    <td>Responsive gallery with smooth scrolling and scroll-based animations.</td>
-    <td>HTML · CSS · JavaScript · GSAP</td>
-  </tr>
-  <tr>
-    <td><strong>Project Two</strong></td>
-    <td>Short description explaining the main purpose and experience.</td>
-    <td>HTML · CSS · JavaScript</td>
-  </tr>
-  <tr>
-    <td><strong>Project Three</strong></td>
-    <td>Short description explaining the main purpose and experience.</td>
-    <td>HTML · CSS · JavaScript</td>
-  </tr>
-</table>
-
-<h2>📚 Learning Roadmap</h2>
-
-<table>
-  <tr>
-    <td>🌱 HTML / CSS</td>
-    <td>Strong</td>
-  </tr>
-  <tr>
-    <td>⚡ JavaScript</td>
-    <td>Improving</td>
-  </tr>
-  <tr>
-    <td>✨ GSAP</td>
-    <td>Improving</td>
-  </tr>
-  <tr>
-    <td>📱 Responsive Design</td>
-    <td>Improving</td>
-  </tr>
-  <tr>
-    <td>⚛️ React</td>
-    <td>Learning</td>
-  </tr>
-  <tr>
-    <td>🚀 Performance</td>
-    <td>Learning</td>
-  </tr>
-</table>
-
-<h2>🎯 What I Care About</h2>
-
-<table>
-  <tr>
-    <td>🧹 <strong>Clean Code</strong></td>
-    <td>Writing code that is easy to understand and maintain.</td>
-  </tr>
-  <tr>
-    <td>📱 <strong>Responsive Design</strong></td>
-    <td>Building interfaces that work across different screen sizes.</td>
-  </tr>
-  <tr>
-    <td>✨ <strong>Purposeful Interaction</strong></td>
-    <td>Using animations and effects when they improve the experience.</td>
-  </tr>
-  <tr>
-    <td>🛠️ <strong>Practical Learning</strong></td>
-    <td>Improving through real projects, debugging, and experimentation.</td>
-  </tr>
-</table>
-<h2>🤝 Let's Connect</h2>
-
-<p>
-If you're interested in frontend development, web design, or collaborating
-on a project, feel free to connect.
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<p>
-  <a href="YOUR_GITHUB_URL">GitHub</a> ·
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+---
+
+### 📫 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
+
+<p align="center"><i>Open to Software Development / Web Development roles — always happy to connect.</i></p>
