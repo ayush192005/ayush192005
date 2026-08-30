@@ -1,71 +1,214 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Ayush;Software+Developer;Python+%C2%B7+SQL+%C2%B7+Web+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Ayush+Kumar+Bansal;Frontend+Developer;Creative+Web+Experiences" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  Final-year BCA student who learns by shipping — dashboards, utilities, and full websites, not just theory.
+  Frontend developer who enjoys turning ideas into responsive,
+  interactive web experiences with thoughtful design and motion.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-open_to_work-2E9EF7?style=flat-square" />
-  <img src="https://img.shields.io/badge/based_in-Haryana%2C_India-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frontend%20Developer-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/BCA%20Graduate-2E9EF7?style=flat-square" />
 </p>
 
 <br>
 
-### 🧭 Currently
-- Wrapping up my final year of BCA at Kurukshetra University
-- Building with **HTML, CSS, Bootstrap, Python, and PostgreSQL**
-- Sharpening SQL — window functions, CTEs, indexing, query optimization
-- Looking for a Software Development / Web Development role
+### 👨‍💻 About Me
+
+- 🎓 BCA graduate from **Kurukshetra University**
+- 💻 Build **responsive and interactive websites** with HTML, CSS, and JavaScript
+- ✨ Enjoy working with **GSAP, ScrollTrigger, and smooth scrolling**
+- 🧩 Learn by **building, debugging, and improving** real projects
+- 🎯 Focused on **clean code, responsive design, and purposeful animation**
 
 <br>
 
-### 🧰 Toolbox
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,py,cpp,postgres,git,github" />
-</p>
+### 🎯 What I'm Focused On
 
-<br>
-
-### 📁 Selected Work
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <b>SKYVUE</b><br>
-      <sub>AI weather dashboard powered by the Claude API with live search for real-time conditions.</sub><br><br>
-      <img src="https://img.shields.io/badge/-HTML-black?style=flat-square" />
-      <img src="https://img.shields.io/badge/-CSS-black?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Claude_API-black?style=flat-square" />
+    <td width="50%" valign="top">
+
+### 💻 Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- Semantic HTML
+- Clean Code
+
     </td>
-    <td width="33%" valign="top">
-      <b>DupeClear</b><br>
-      <sub>Web app that detects and removes duplicate rows from messy datasets.</sub><br><br>
-      <img src="https://img.shields.io/badge/-Python-black?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square" />
-    </td>
-    <td width="33%" valign="top">
-      <b>Portfolio</b><br>
-      <sub>Personal site — Hero, About, Skills, Projects, Education, Contact.</sub><br><br>
-      <img src="https://img.shields.io/badge/-HTML-black?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Bootstrap_5-black?style=flat-square" />
+    <td width="50%" valign="top">
+
+### ✨ Creative UI
+
+- GSAP
+- ScrollTrigger
+- Smooth Scrolling
+- Scroll Animations
+- Interactive UI
+- Micro-interactions
+
     </td>
   </tr>
 </table>
 
 <br>
 
-### 📈 Activity
+### ⚙️ How I Build
+
+<table>
+  <tr>
+    <td><strong>01</strong></td>
+    <td><strong>Plan</strong></td>
+    <td>Define the idea, layout, content, and user flow.</td>
+  </tr>
+  <tr>
+    <td><strong>02</strong></td>
+    <td><strong>Structure</strong></td>
+    <td>Build semantic HTML before adding visual details.</td>
+  </tr>
+  <tr>
+    <td><strong>03</strong></td>
+    <td><strong>Design</strong></td>
+    <td>Create responsive layouts with clear visual hierarchy.</td>
+  </tr>
+  <tr>
+    <td><strong>04</strong></td>
+    <td><strong>Interaction</strong></td>
+    <td>Add JavaScript and animation where it improves the experience.</td>
+  </tr>
+  <tr>
+    <td><strong>05</strong></td>
+    <td><strong>Refine</strong></td>
+    <td>Test responsiveness, fix issues, and clean the code.</td>
+  </tr>
+</table>
+
+<br>
+
+### 🛠️ Currently Building
+
+<p>
+I'm currently working on frontend projects that help me improve:
+</p>
+
+<table>
+  <tr>
+    <td>📱 Responsive Layouts</td>
+    <td>🎨 Advanced CSS</td>
+  </tr>
+  <tr>
+    <td>⚡ JavaScript Interactions</td>
+    <td>✨ GSAP Animations</td>
+  </tr>
+  <tr>
+    <td>🖱️ Scroll-Based Experiences</td>
+    <td>🌐 Real-World UI</td>
+  </tr>
+</table>
+
+<br>
+
+### 🚀 Featured Project
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+
+### Photo Gallery Website
+
+Responsive image gallery built for desktop, tablet, and mobile.
+
+**Highlights**
+- Smooth scrolling
+- Scroll-based animations
+- Interactive image sections
+- Responsive layout
+- GSAP + ScrollTrigger
+- Locomotive Scroll
+
+**Built With**
+
+`HTML5` `CSS3` `JavaScript` `GSAP` `ScrollTrigger` `Locomotive Scroll`
+
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 🧰 Toolbox
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&theme=default" height="150" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+</p>
+
+<p>
+  <strong>Animation:</strong> GSAP · ScrollTrigger
+  <br>
+  <strong>Scrolling:</strong> Locomotive Scroll
 </p>
 
 <br>
 
-### 🤝 Reach Me
+### 📚 Learning Roadmap
+
+<table>
+  <tr>
+    <td>HTML / CSS</td>
+    <td>Strong</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>Strong</td>
+  </tr>
+  <tr>
+    <td>GSAP</td>
+    <td>Improving</td>
+  </tr>
+  <tr>
+    <td>Responsive Design</td>
+    <td>Improving</td>
+  </tr>
+  <tr>
+    <td>React</td>
+    <td>Learning</td>
+  </tr>
+  <tr>
+    <td>Performance</td>
+    <td>Learning</td>
+  </tr>
+</table>
+
+<br>
+
+### 🚀 What I Care About
+
+- 🧹 **Clean Code** — easy to understand and maintain
+- 📱 **Responsive Design** — consistent experience across screen sizes
+- ✨ **Purposeful Animation** — motion that improves the experience
+- 🛠️ **Practical Learning** — building, debugging, and experimenting
+
+<br>
+
+### 🤝 Let's Connect
+
+<p>
+If you're interested in frontend development, web design, or collaborating
+on a project, feel free to connect.
+</p>
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel" /></a>
+  <a href="YOUR-LINKEDIN-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail" />
+  </a>
+  <a href="YOUR-PORTFOLIO-URL">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel" />
+  </a>
 </p>
