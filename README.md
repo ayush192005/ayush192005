@@ -18,15 +18,34 @@ real-world projects and consistent practice.
 
 <h2>🎯 What I'm Focused On</h2>
 
-<p>
-  <strong>💻 Core Frontend</strong><br>
-  HTML5 · CSS3 · JavaScript · Responsive Design · Semantic HTML · Clean Code
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-<p>
-  <strong>✨ Interactive Experiences</strong><br>
-  GSAP · ScrollTrigger · Smooth Scrolling · Scroll Animations · Interactive UI · Micro-interactions
-</p>
+### 💻 Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- Semantic HTML
+- Clean Code
+
+    </td>
+    <td width="50%" valign="top">
+
+### ✨ Creative UI
+
+- GSAP
+- ScrollTrigger
+- Smooth Scrolling
+- Scroll Animations
+- Interactive UI
+- Micro-interactions
+
+    </td>
+  </tr>
+</table>
 ⚙️ How I Build
 
 I usually approach a project in this order:
