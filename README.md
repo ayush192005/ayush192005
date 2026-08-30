@@ -1,17 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Ayush+Kumar+Bansal;Frontend+Developer;Creative+Web+Experiences" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=38&pause=1200&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ayush+Kumar+Bansal;Frontend+Developer"
+    alt="Hi, I'm Ayush Kumar Bansal - Frontend Developer"
+  />
 </h1>
 
 <p align="center">
-  Frontend developer who enjoys turning ideas into responsive,
-  interactive web experiences with thoughtful design and motion.
+  Building responsive & interactive web experiences.
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Developer-2E9EF7?style=flat-square" />
-  <img src="https://img.shields.io/badge/BCA%20Graduate-2E9EF7?style=flat-square" />
-</p>
-
 <br>
 
 ### 👨‍💻 About Me
