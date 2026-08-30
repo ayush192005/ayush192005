@@ -141,7 +141,7 @@ real-world projects and consistent practice.
   </tr>
   <tr>
     <td>⚡ JavaScript</td>
-    <td>Strong</td>
+    <td>Improving</td>
   </tr>
   <tr>
     <td>✨ GSAP</td>
