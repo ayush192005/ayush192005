@@ -21,27 +21,27 @@ real-world projects and consistent practice.
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Frontend Development
+### 💻 Core Frontend
 
-- Responsive Web Design
-- Semantic HTML5
-- Modern CSS3
+- HTML5
+- CSS3
 - JavaScript
-- Interactive UI
-- Clean & Maintainable Code
+- Responsive Design
+- Semantic Structure
+- Maintainable Code
 
 </td>
 
 <td width="50%" valign="top">
 
-### ✨ Creative Web Experiences
+### ✨ Interactive Experiences
 
-- GSAP & ScrollTrigger
+- GSAP
+- ScrollTrigger
 - Smooth Scrolling
-- Scroll-based Animations
+- Scroll Animations
+- Interactive UI
 - Micro-interactions
-- Visual Effects
-- User Experience
 
 </td>
 </tr>
