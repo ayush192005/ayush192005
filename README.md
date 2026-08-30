@@ -30,7 +30,7 @@ Frontend Development
 | Scrolling       | Locomotive Scroll   |
 | Version Control | Git, GitHub         |
 | Editor          | VS Code             |
-
+```
 ⚙️ How I Build
 
 I usually approach a project in this order:
