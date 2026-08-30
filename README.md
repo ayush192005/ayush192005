@@ -122,28 +122,64 @@ real-world projects and consistent practice.
   </tr>
 </table>
 
-📈 Learning Roadmap
-HTML / CSS          ████████████████████  Strong
-JavaScript          ███████████████░░░░░  Improving
-GSAP                █████████████░░░░░░░  Improving
-Responsive Design   █████████████████░░░  Strong
-React               ████████░░░░░░░░░░░░  Learning
-Performance         ███████░░░░░░░░░░░░░  Learning
+<h2>📚 Learning Roadmap</h2>
 
-🎯 What I Care About
-Writing clean and understandable code
-Building responsive interfaces
-Creating useful interactions instead of unnecessary effects
-Improving through practical projects
-Learning by building and debugging
+<table>
+  <tr>
+    <td>🌱 HTML / CSS</td>
+    <td>Strong</td>
+  </tr>
+  <tr>
+    <td>⚡ JavaScript</td>
+    <td>Strong</td>
+  </tr>
+  <tr>
+    <td>✨ GSAP</td>
+    <td>Improving</td>
+  </tr>
+  <tr>
+    <td>📱 Responsive Design</td>
+    <td>Improving</td>
+  </tr>
+  <tr>
+    <td>⚛️ React</td>
+    <td>Learning</td>
+  </tr>
+  <tr>
+    <td>🚀 Performance</td>
+    <td>Learning</td>
+  </tr>
+</table>
 
-🤝 Let's Connect
+<h2>🎯 What I Care About</h2>
 
+<table>
+  <tr>
+    <td>🧹 <strong>Clean Code</strong></td>
+    <td>Writing code that is easy to understand and maintain.</td>
+  </tr>
+  <tr>
+    <td>📱 <strong>Responsive Design</strong></td>
+    <td>Building interfaces that work across different screen sizes.</td>
+  </tr>
+  <tr>
+    <td>✨ <strong>Purposeful Interaction</strong></td>
+    <td>Using animations and effects when they improve the experience.</td>
+  </tr>
+  <tr>
+    <td>🛠️ <strong>Practical Learning</strong></td>
+    <td>Improving through real projects, debugging, and experimentation.</td>
+  </tr>
+</table>
+<h2>🤝 Let's Connect</h2>
+
+<p>
 If you're interested in frontend development, web design, or collaborating
 on a project, feel free to connect.
+</p>
 
-GitHub: ayush192005
-
-LinkedIn: Connect with me
-
-Portfolio: Visit my portfolio
+<p>
+  <a href="YOUR_GITHUB_URL">GitHub</a> ·
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+</p>
