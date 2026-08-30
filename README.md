@@ -171,7 +171,7 @@ Responsive image gallery built for desktop, tablet, and mobile.
   </tr>
   <tr>
     <td>JavaScript</td>
-    <td>Strong</td>
+    <td>Improving</td>
   </tr>
   <tr>
     <td>GSAP</td>
