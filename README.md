@@ -1,14 +1,18 @@
-<div align="center>
-# 👋 Hi, I'm Ayush Kumar Bansal
+<div align="center">
 
-### Frontend Developer | Creative Web Experiences
+<h1>👋 Hi, I'm Ayush Kumar Bansal</h1>
 
-I build responsive and interactive websites with a strong focus on
+<h3>Frontend Developer | Creative Web Experiences</h3>
+
+<p>
+I build responsive and interactive websites with a strong focus on<br>
 visual design, animations, and user experience.
+</p>
 
-Currently focused on improving my frontend development skills through
+<p>
+Currently focused on improving my frontend development skills through<br>
 real-world projects and consistent practice.
----
+</p>
 
 </div>
 ## 🧭 What I'm Focused On
