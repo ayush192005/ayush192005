@@ -16,6 +16,40 @@ real-world projects and consistent practice.
 
 </div>
 
+<h2>👨‍💻 About Me</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🎓 Background
+
+I'm a frontend developer and a graduate of
+**Kurukshetra University**.
+
+I enjoy turning ideas into responsive,
+interactive web experiences and continuously
+improving my development skills through
+hands-on projects.
+
+    </td>
+
+    <td width="50%" valign="top">
+
+### 🚀 My Approach
+
+I focus on writing clean, understandable code
+while paying close attention to visual details,
+responsiveness, and user experience.
+
+I especially enjoy experimenting with
+JavaScript, GSAP, ScrollTrigger, and
+scroll-based interactions.
+
+    </td>
+  </tr>
+</table>
+
 <h2>🎯 What I'm Focused On</h2>
 
 <table>
