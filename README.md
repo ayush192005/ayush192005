@@ -15,27 +15,37 @@ real-world projects and consistent practice.
 </p>
 
 </div>
-## 🧭 What I'm Focused On
+<h2>🎯 What I'm Focused On</h2>
 
-```text
-Frontend Development
-├── Responsive Web Design
-├── JavaScript
-├── Interactive UI
-├── GSAP & ScrollTrigger
-├── Smooth Scrolling
-└── Clean, Maintainable Code
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Category        | Technologies        |
-| --------------- | ------------------- |
-| Structure       | HTML5               |
-| Styling         | CSS3                |
-| Programming     | JavaScript          |
-| Animation       | GSAP, ScrollTrigger |
-| Scrolling       | Locomotive Scroll   |
-| Version Control | Git, GitHub         |
-| Editor          | VS Code             |
-```
+### 🎨 Frontend Development
+
+- Responsive Web Design
+- Semantic HTML5
+- Modern CSS3
+- JavaScript
+- Interactive UI
+- Clean & Maintainable Code
+
+</td>
+
+<td width="50%" valign="top">
+
+### ✨ Creative Web Experiences
+
+- GSAP & ScrollTrigger
+- Smooth Scrolling
+- Scroll-based Animations
+- Micro-interactions
+- Visual Effects
+- User Experience
+
+</td>
+</tr>
+</table>
 ⚙️ How I Build
 
 I usually approach a project in this order:
