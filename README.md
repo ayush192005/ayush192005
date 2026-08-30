@@ -1,3 +1,4 @@
+<div align="center>
 # 👋 Hi, I'm Ayush Kumar Bansal
 
 ### Frontend Developer | Creative Web Experiences
@@ -7,9 +8,9 @@ visual design, animations, and user experience.
 
 Currently focused on improving my frontend development skills through
 real-world projects and consistent practice.
-
 ---
 
+</div>
 ## 🧭 What I'm Focused On
 
 ```text
