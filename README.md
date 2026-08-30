@@ -223,9 +223,9 @@ on a project, feel free to connect.
   <a href="https://www.linkedin.com/in/bansal19/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" />
   </a>
-  <a href="ayushbansal19505@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail" />
-  </a>
+<a href="mailto:ayushbansal19505@gmail.com">
+  <img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail" />
+</a>
   <a href="https://github.com/ayush192005/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel" />
   </a>
