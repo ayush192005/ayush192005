@@ -78,16 +78,24 @@ real-world projects and consistent practice.
   </tr>
 </table>
 
-🚧 Currently Building
+<h2>🛠️ Currently Building</h2>
 
-I'm currently working on frontend projects that help me improve:
+<p>I'm currently working on frontend projects that help me improve:</p>
 
-Responsive layouts
-Advanced CSS
-JavaScript interactions
-GSAP animations
-Scroll-based experiences
-Real-world UI implementation
+<table>
+  <tr>
+    <td>📱 Responsive Layouts</td>
+    <td>🎨 Advanced CSS</td>
+  </tr>
+  <tr>
+    <td>⚡ JavaScript Interactions</td>
+    <td>✨ GSAP Animations</td>
+  </tr>
+  <tr>
+    <td>🖱️ Scroll-Based Experiences</td>
+    <td>🌐 Real-World UI</td>
+  </tr>
+</table>
 
 | Project                   | Description                                                          | Technologies        |
 | ------------------------- | -------------------------------------------------------------------- | ------------------- |
