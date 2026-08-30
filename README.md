@@ -16,11 +16,11 @@
 
 <p align="center">
 
-  <a href="YOUR-PORTFOLIO-URL" target="_blank">
+  <a href="[YOUR-PORTFOLIO-URL](https://github.com/ayush192005)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 
-  <a href="YOUR-LINKEDIN-URL" target="_blank">
+  <a href="linkedin.com/in/bansal19/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
