@@ -1,13 +1,27 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=38&pause=1200&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ayush+Kumar+Bansal;Frontend+Developer"
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&pause=1200&color=2E9EF7&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Ayush+Kumar+Bansal;Frontend+Developer"
     alt="Hi, I'm Ayush Kumar Bansal - Frontend Developer"
   />
 </h1>
 
 <p align="center">
-  Building responsive & interactive web experiences.
+  I build responsive, interactive websites with a focus on
+  <strong>clean UI, smooth interactions, and purposeful animation.</strong>
 </p>
+
+<p align="center">
+  <strong>HTML · CSS · JavaScript · GSAP · ScrollTrigger</strong>
+</p>
+
+<p align="center">
+  <a href="YOUR-PORTFOLIO-URL">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="YOUR-LINKEDIN-URL">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="YOUR-GITHUB-URL">GitHub</a>
+</p>
+
 <br>
 
 ### 👨‍💻 About Me
