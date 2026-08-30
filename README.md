@@ -143,7 +143,7 @@ Responsive image gallery built for desktop, tablet, and mobile.
   <code>Locomotive Scroll</code>
 </p>
 
-    </td>
+    photo-gallery-xi-self.vercel.app
   </tr>
 </table>
 <br>
