@@ -97,12 +97,30 @@ real-world projects and consistent practice.
   </tr>
 </table>
 
-| Project                   | Description                                                          | Technologies        |
-| ------------------------- | -------------------------------------------------------------------- | ------------------- |
-| **Photo Gallery Website** | Responsive gallery with smooth scrolling and scroll-based animations | HTML, CSS, JS, GSAP |
-| **Project 02**            | Add a short description of your project                              | HTML, CSS, JS       |
-| **Project 03**            | Add a short description of your project                              | HTML, CSS, JS       |
+<h2>🚀 Featured Projects</h2>
 
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><strong>Photo Gallery</strong></td>
+    <td>Responsive gallery with smooth scrolling and scroll-based animations.</td>
+    <td>HTML · CSS · JavaScript · GSAP</td>
+  </tr>
+  <tr>
+    <td><strong>Project Two</strong></td>
+    <td>Short description explaining the main purpose and experience.</td>
+    <td>HTML · CSS · JavaScript</td>
+  </tr>
+  <tr>
+    <td><strong>Project Three</strong></td>
+    <td>Short description explaining the main purpose and experience.</td>
+    <td>HTML · CSS · JavaScript</td>
+  </tr>
+</table>
 
 📈 Learning Roadmap
 HTML / CSS          ████████████████████  Strong
