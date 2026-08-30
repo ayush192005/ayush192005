@@ -1,55 +1,71 @@
-<h1 align="center">Hi, I'm Ayush 👋</h1>
-<h3 align="center">Software Developer | Python · SQL · Web Development</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Ayush;Software+Developer;Python+%C2%B7+SQL+%C2%B7+Web+Dev" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  Final-year BCA student building practical, project-based work across web development, databases, and applied Python — currently exploring backend and data-driven tools.
+  Final-year BCA student who learns by shipping — dashboards, utilities, and full websites, not just theory.
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/status-open_to_work-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/based_in-Haryana%2C_India-2E9EF7?style=flat-square" />
+</p>
 
-### 🚀 About Me
-- 🎓 Final-year BCA student, Kurukshetra University
-- 💻 Working with **HTML, CSS, Bootstrap, Python, and PostgreSQL**
-- 🗄️ Comfortable with SQL fundamentals — window functions, CTEs, indexing, and query optimization
-- 🌱 Learning by building — dashboards, utilities, and full websites rather than just theory
-- 📍 Based in Haryana, India — open to Software Development / Web Development roles
+<br>
 
----
+### 🧭 Currently
+- Wrapping up my final year of BCA at Kurukshetra University
+- Building with **HTML, CSS, Bootstrap, Python, and PostgreSQL**
+- Sharpening SQL — window functions, CTEs, indexing, query optimization
+- Looking for a Software Development / Web Development role
 
-### 🛠️ Tech Stack
+<br>
+
+### 🧰 Toolbox
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,py,cpp,postgres,git,github" />
 </p>
 
----
+<br>
 
-### 🎯 Featured Projects
-| Project | Description | Stack |
-|---|---|---|
-| **[SKYVUE](#)** | AI-powered weather dashboard using the Claude API with live web search for real-time data | HTML, CSS, JS, Claude API |
-| **[DupeClear](#)** | Web app for detecting and removing duplicate rows from datasets | Python, Pandas |
-| **[Portfolio Website](#)** | Personal portfolio built from a structured layout — Hero, About, Skills, Projects, Education, Contact | HTML, CSS, Bootstrap 5 |
+### 📁 Selected Work
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>SKYVUE</b><br>
+      <sub>AI weather dashboard powered by the Claude API with live search for real-time conditions.</sub><br><br>
+      <img src="https://img.shields.io/badge/-HTML-black?style=flat-square" />
+      <img src="https://img.shields.io/badge/-CSS-black?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Claude_API-black?style=flat-square" />
+    </td>
+    <td width="33%" valign="top">
+      <b>DupeClear</b><br>
+      <sub>Web app that detects and removes duplicate rows from messy datasets.</sub><br><br>
+      <img src="https://img.shields.io/badge/-Python-black?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square" />
+    </td>
+    <td width="33%" valign="top">
+      <b>Portfolio</b><br>
+      <sub>Personal site — Hero, About, Skills, Projects, Education, Contact.</sub><br><br>
+      <img src="https://img.shields.io/badge/-HTML-black?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Bootstrap_5-black?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
-### 📊 GitHub Stats
+### 📈 Activity
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&theme=default" height="150" />
 </p>
 
----
+<br>
 
-### 📫 Connect With Me
+### 🤝 Reach Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel" /></a>
 </p>
-
-<p align="center"><i>Open to Software Development / Web Development roles — always happy to connect.</i></p>
