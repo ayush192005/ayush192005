@@ -18,37 +18,18 @@ real-world projects and consistent practice.
 
 <h2>👨‍💻 About Me</h2>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<p>
+I'm a frontend developer who enjoys turning ideas into responsive,
+interactive web experiences. I graduated from
+<strong>Kurukshetra University</strong> and currently focus on
+strengthening my frontend skills through hands-on projects.
+</p>
 
-### 🎓 Background
-
-I'm a frontend developer and a graduate of
-**Kurukshetra University**.
-
-I enjoy turning ideas into responsive,
-interactive web experiences and continuously
-improving my development skills through
-hands-on projects.
-
-    </td>
-
-    <td width="50%" valign="top">
-
-### 🚀 My Approach
-
-I focus on writing clean, understandable code
-while paying close attention to visual details,
-responsiveness, and user experience.
-
-I especially enjoy experimenting with
-JavaScript, GSAP, ScrollTrigger, and
-scroll-based interactions.
-
-    </td>
-  </tr>
-</table>
+<p>
+I enjoy working with HTML, CSS, and JavaScript, while exploring
+GSAP, ScrollTrigger, and scroll-based interactions to create
+interfaces that feel engaging without sacrificing usability.
+</p>
 
 <h2>🎯 What I'm Focused On</h2>
 
