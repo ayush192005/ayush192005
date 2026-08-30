@@ -15,13 +15,16 @@
 </p>
 
 <p align="center">
-  <a href="YOUR-PORTFOLIO-URL">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="YOUR-LINKEDIN-URL">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="YOUR-GITHUB-URL">GitHub</a>
+  <a href="YOUR-PORTFOLIO-URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="YOUR-LINKEDIN-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/ayush192005">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
-
 <br>
 
 ### 👨‍💻 About Me
