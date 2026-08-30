@@ -18,19 +18,13 @@ real-world projects and consistent practice.
 
 <h2>👨‍💻 About Me</h2>
 
-<p>
-I'm Ayush, a frontend developer and <strong>Kurukshetra University</strong>
-graduate. I enjoy turning ideas into responsive, interactive websites.
-</p>
-
-<p>
-I work with <strong>HTML, CSS, JavaScript, GSAP, and ScrollTrigger</strong>,
-while focusing on clean code, smooth interactions, and purposeful design.
-</p>
-
-<p>
-<strong>Build → Break → Learn → Improve.</strong>
-</p>
+<ul>
+  <li>🎓 Graduate of <strong>Kurukshetra University</strong>.</li>
+  <li>💻 I build <strong>responsive, interactive web experiences</strong>.</li>
+  <li>✨ I enjoy working with <strong>JavaScript, GSAP & ScrollTrigger</strong>.</li>
+  <li>🧩 I learn by <strong>building, breaking, debugging, and rebuilding</strong>.</li>
+  <li>🎯 I care about <strong>clean code, good design, and purposeful animation</strong>.</li>
+</ul>
 
 <h2>🎯 What I'm Focused On</h2>
 
