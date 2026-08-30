@@ -46,29 +46,37 @@ real-world projects and consistent practice.
     </td>
   </tr>
 </table>
-⚙️ How I Build
+<h2>⚙️ How I Build</h2>
 
-I usually approach a project in this order:
+<p>I usually approach a project in this order:</p>
 
-01 — Plan
-
-Understand the idea, layout, content, and user flow.
-
-02 — Structure
-
-Build the semantic HTML structure before focusing on visual details.
-
-03 — Design
-
-Create responsive layouts with CSS while maintaining visual hierarchy.
-
-04 — Interaction
-
-Add JavaScript functionality and animations where they improve the experience.
-
-05 — Refine
-
-Test responsiveness, fix layout issues, improve performance, and clean up the code.
+<table>
+  <tr>
+    <td><strong>01</strong></td>
+    <td><strong>Plan</strong></td>
+    <td>Define the idea, layout, content, and user flow.</td>
+  </tr>
+  <tr>
+    <td><strong>02</strong></td>
+    <td><strong>Structure</strong></td>
+    <td>Build semantic HTML before adding visual details.</td>
+  </tr>
+  <tr>
+    <td><strong>03</strong></td>
+    <td><strong>Design</strong></td>
+    <td>Create responsive layouts with clear visual hierarchy.</td>
+  </tr>
+  <tr>
+    <td><strong>04</strong></td>
+    <td><strong>Interaction</strong></td>
+    <td>Add JavaScript and animations where they improve UX.</td>
+  </tr>
+  <tr>
+    <td><strong>05</strong></td>
+    <td><strong>Refine</strong></td>
+    <td>Test responsiveness, fix issues, optimize, and clean the code.</td>
+  </tr>
+</table>
 
 🚧 Currently Building
 
