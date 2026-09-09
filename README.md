@@ -237,7 +237,7 @@ on a project, feel free to connect.
   <img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail" />
 </a>
 
-  <a href="https://github.com/ayush192005/">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel" />
-  </a>
+<a href="https://ayush-dev-portfolio-rho.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel" />
+</a>
 </p>
