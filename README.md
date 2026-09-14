@@ -15,21 +15,20 @@
 
 <br>
 
-<a href="https://ayush-dev-portfolio-rho.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-</a>
-
-<a href="https://www.linkedin.com/in/bansal19/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://github.com/ayush192005">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushbansal19505@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+<p align="center">
+  <a href="https://ayush-dev-portfolio-rho.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/bansal19/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/ayush192005">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushbansal19505@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 </div>
 
