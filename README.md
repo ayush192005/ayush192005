@@ -6,9 +6,6 @@
 </h1>
 
 <p align="center">
-  <strong>Crafting responsive interfaces with purposeful motion.</strong>
-</p>
-<p align="center">
   <strong>Frontend Developer · Creative UI · Interactive Experiences</strong>
 </p>
 
