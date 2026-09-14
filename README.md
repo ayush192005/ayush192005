@@ -1,8 +1,12 @@
-<p align="center">
+<h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=%24+whoami;ayush+-+frontend+developer;%24+build+--interactive-ui;%24+status+--learning+%26+creating"
-    alt="Terminal animation"
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=42&duration=3000&pause=1600&color=6C63FF&center=true&vCenter=true&repeat=true&width=950&height=70&lines=AYUSH+KUMAR+BANSAL;FRONTEND+DEVELOPER+%26+DESIGNER;INTERACTIVE+WEB+EXPERIENCES"
+    alt="Ayush Kumar Bansal — Frontend Developer & Designer"
   />
+</h1>
+
+<p align="center">
+  <strong>Crafting responsive interfaces with purposeful motion.</strong>
 </p>
 <p align="center">
   <strong>Frontend Developer · Creative UI · Interactive Experiences</strong>
