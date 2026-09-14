@@ -4,31 +4,21 @@
 
 <br>
 
-<p>
-  I build responsive, interactive websites with a focus on
-  <strong>clean UI, smooth interactions, and purposeful animation.</strong>
-</p>
-
-<p>
-  <strong>HTML · CSS · JavaScript · GSAP · ScrollTrigger</strong>
-</p>
-
-<br>
 <p align="center">
   <a href="https://ayush-dev-portfolio-rho.vercel.app/">
-    <img src="https://img.shields.io/badge/✦%20VISIT%20MY%20PORTFOLIO-000000?style=for-the-badge&labelColor=000000" />
+    <strong>↗ Explore Portfolio</strong>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bansal19/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://github.com/ayush192005">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" />
+    <strong>GitHub</strong>
   </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/bansal19/">
+    <strong>LinkedIn</strong>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushbansal19505@gmail.com">
-    <img src="https://img.shields.io/badge/Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <strong>Contact</strong>
   </a>
 </p>
 
