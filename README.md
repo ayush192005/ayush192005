@@ -313,19 +313,30 @@ Responsive image gallery built for desktop, tablet, and mobile.
 <br>
 
 ---
-
 ## 🧰 Toolbox
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github">
+<img src="https://skillicons.dev/icons?i=html,css,js,gsap,git,github,vscode,vercel" />
 
-<br><br>
+</p>
+
+<br>
 
 <table>
 <tr>
 
-<td align="center" width="50%">
+<td width="33%" align="center">
+
+<strong>Frontend</strong>
+
+<br><br>
+
+HTML5 · CSS3 · JavaScript
+
+</td>
+
+<td width="33%" align="center">
 
 <strong>Animation</strong>
 
@@ -335,7 +346,21 @@ GSAP · ScrollTrigger
 
 </td>
 
-<td align="center" width="50%">
+<td width="33%" align="center">
+
+<strong>Tools</strong>
+
+<br><br>
+
+Git · GitHub · VS Code · Vercel
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center">
 
 <strong>Scrolling</strong>
 
@@ -345,80 +370,29 @@ Locomotive Scroll
 
 </td>
 
-</tr>
-</table>
+<td width="33%" align="center">
 
-</div>
+<strong>Workflow</strong>
 
-<br>
+<br><br>
 
----
-
-## 📚 Learning Roadmap
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>HTML / CSS</h3>
-
-<strong>Strong</strong>
+Build · Debug · Refine
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-<h3>JavaScript</h3>
+<strong>Design Focus</strong>
 
-<strong>Improving</strong>
+<br><br>
 
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
-
-<h3>GSAP</h3>
-
-<strong>Improving</strong>
-
-</td>
-
-<td valign="top">
-
-<h3>Responsive Design</h3>
-
-<strong>Improving</strong>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
-
-<h3>React</h3>
-
-<strong>Learning</strong>
-
-</td>
-
-<td valign="top">
-
-<h3>Performance</h3>
-
-<strong>Learning</strong>
+Responsive UI · Interaction
 
 </td>
 
 </tr>
 
 </table>
-
 <br>
 
 ---
