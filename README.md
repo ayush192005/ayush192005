@@ -1,9 +1,9 @@
-<h1 align="center">
+<p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=2000&pause=1200&color=00D9FF&center=true&vCenter=true&repeat=true&width=900&height=70&lines=AYUSH+%3E+FRONTEND;DESIGN+%3E+INTERACTION;CODE+%3E+CREATE"
-    alt="Ayush — Frontend Developer"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=%24+whoami;ayush+-+frontend+developer;%24+build+--interactive-ui;%24+status+--learning+%26+creating"
+    alt="Terminal animation"
   />
-</h1>
+</p>
 <p align="center">
   <strong>Frontend Developer · Creative UI · Interactive Experiences</strong>
 </p>
