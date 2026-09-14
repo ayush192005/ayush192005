@@ -62,46 +62,36 @@
 
 <td width="50%" valign="top">
 
-<h3>💻 Frontend</h3>
+<h3>💻 Frontend Development</h3>
 
 <p>
-Responsive interfaces with clean structure, accessibility,
-and maintainable code.
+Building responsive, accessible interfaces with clean structure and maintainable code.
 </p>
 
 <p>
-<code>HTML5</code>
-<code>CSS3</code>
-<code>JavaScript</code>
+<strong>Core:</strong> <code>HTML5</code> · <code>CSS3</code> · <code>JavaScript</code>
 </p>
 
 <p>
-• Responsive Design<br>
-• Semantic HTML<br>
-• Clean Code
+<strong>Focus:</strong> Responsive Design · Semantic HTML · Clean Code
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>✨ Creative UI</h3>
+<h3>✨ Creative UI & Motion</h3>
 
 <p>
-Motion and interaction that improve the experience rather
-than distract from it.
+Creating purposeful interactions and motion that enhance usability without unnecessary distraction.
 </p>
 
 <p>
-<code>GSAP</code>
-<code>ScrollTrigger</code>
+<strong>Tools:</strong> <code>GSAP</code> · <code>ScrollTrigger</code>
 </p>
 
 <p>
-• Smooth Scrolling<br>
-• Scroll Animations<br>
-• Interactive UI<br>
-• Micro-interactions
+<strong>Focus:</strong> Smooth Scrolling · Scroll Animations · Interactive UI · Micro-interactions
 </p>
 
 </td>
