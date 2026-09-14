@@ -6,19 +6,20 @@
 
 <p align="center">
   <a href="https://ayush-dev-portfolio-rho.vercel.app/">
-    <strong>↗ Explore Portfolio</strong>
+    <img src="https://img.shields.io/badge/%E2%9C%A6%20MY%20PORTFOLIO-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/ayush192005">
-    <strong>GitHub</strong>
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/bansal19/">
-    <strong>LinkedIn</strong>
+    <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <a href="https://github.com/ayush192005">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECTS-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushbansal19505@gmail.com">
-    <strong>Contact</strong>
+    <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
