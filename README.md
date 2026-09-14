@@ -316,43 +316,39 @@ Responsive image gallery built for desktop, tablet, and mobile.
 ## 🧰 Toolbox
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,gsap,git,github,vscode,vercel" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,gsap,git,github,vscode,vercel" />
 </p>
 
-<br>
-
-<table>
+<table width="100%">
 <tr>
 
 <td width="33%" align="center">
 
-<strong>Frontend</strong>
+### 💻 Frontend
 
-<br><br>
+`HTML5` · `CSS3` · `JavaScript`
 
-HTML5 · CSS3 · JavaScript
-
-</td>
-
-<td width="33%" align="center">
-
-<strong>Animation</strong>
-
-<br><br>
-
-GSAP · ScrollTrigger
+Responsive UI · Semantic HTML · Clean Code
 
 </td>
 
 <td width="33%" align="center">
 
-<strong>Tools</strong>
+### ✨ Animation
 
-<br><br>
+`GSAP` · `ScrollTrigger`
 
-Git · GitHub · VS Code · Vercel
+Smooth Motion · Scroll Animations · Micro-interactions
+
+</td>
+
+<td width="33%" align="center">
+
+### 🛠️ Tools
+
+`Git` · `GitHub` · `VS Code` · `Vercel`
+
+Version Control · Development · Deployment
 
 </td>
 
@@ -362,36 +358,35 @@ Git · GitHub · VS Code · Vercel
 
 <td width="33%" align="center">
 
-<strong>Scrolling</strong>
+### 📜 Scrolling
 
-<br><br>
+`Locomotive Scroll`
 
-Locomotive Scroll
+Smooth Scrolling · Parallax Effects
 
 </td>
 
 <td width="33%" align="center">
 
-<strong>Workflow</strong>
-
-<br><br>
+### 🔄 Workflow
 
 Build · Debug · Refine
 
+Iterate · Optimize · Deploy
+
 </td>
 
 <td width="33%" align="center">
 
-<strong>Design Focus</strong>
-
-<br><br>
+### 🎨 Design Focus
 
 Responsive UI · Interaction
+
+Visual Hierarchy · User Experience
 
 </td>
 
 </tr>
-
 </table>
 <br>
 
