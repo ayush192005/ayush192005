@@ -65,24 +65,21 @@
 <h3>💻 Frontend</h3>
 
 <p>
-Building responsive interfaces with strong structure, usability,
-and clean implementation.
+Responsive interfaces with clean structure, accessibility,
+and maintainable code.
 </p>
 
-<br>
+<p>
+<code>HTML5</code>
+<code>CSS3</code>
+<code>JavaScript</code>
+</p>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-
-<br><br>
-
-• HTML5  
-• CSS3  
-• JavaScript  
-• Responsive Design  
-• Semantic HTML  
-• Clean Code  
+<p>
+• Responsive Design<br>
+• Semantic HTML<br>
+• Clean Code
+</p>
 
 </td>
 
@@ -91,23 +88,21 @@ and clean implementation.
 <h3>✨ Creative UI</h3>
 
 <p>
-Using motion and interaction where they improve the experience,
-not simply for decoration.
+Motion and interaction that improve the experience rather
+than distract from it.
 </p>
 
-<br>
+<p>
+<code>GSAP</code>
+<code>ScrollTrigger</code>
+</p>
 
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white">
-<img src="https://img.shields.io/badge/ScrollTrigger-111111?style=flat-square">
-
-<br><br>
-
-• GSAP  
-• ScrollTrigger  
-• Smooth Scrolling  
-• Scroll Animations  
-• Interactive UI  
-• Micro-interactions  
+<p>
+• Smooth Scrolling<br>
+• Scroll Animations<br>
+• Interactive UI<br>
+• Micro-interactions
+</p>
 
 </td>
 
