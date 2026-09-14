@@ -263,50 +263,62 @@ Applying frontend skills to practical projects and interfaces.
 ---
 ## 🚀 Featured Project
 
-### 📸 Photo Gallery Website
+<h3>📸 Photo Gallery Website</h3>
 
 <p>
-Responsive image gallery built for desktop, tablet, and mobile.
+A responsive image gallery designed for desktop, tablet, and mobile,
+with smooth scrolling, immersive animations, and interactive visual sections.
 </p>
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="55%" valign="top">
 
-<strong>Highlights</strong>
+### ✨ Highlights
 
-<br><br>
-
-• Smooth scrolling  
-• Scroll-based animations  
-• Interactive image sections  
-• Responsive layout  
+- Smooth scrolling experience
+- Scroll-based animations
+- Interactive image sections
+- Fully responsive layout
+- Optimized for different screen sizes
 
 </td>
 
 <td width="45%" valign="top">
 
-<strong>Built With</strong>
+### 🛠️ Built With
 
-<br><br>
-
+<p>
 <code>HTML5</code>
 <code>CSS3</code>
 <code>JavaScript</code>
 <code>GSAP</code>
 <code>ScrollTrigger</code>
 <code>Locomotive Scroll</code>
+</p>
+
+<strong>Focus</strong>
+
+<p>
+Responsive Design · Motion · Interaction
+</p>
 
 </td>
 
 </tr>
 </table>
 
-<p>
-<a href="https://photo-gallery-xi-self.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-111111?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo">
-</a>
+<br>
+
+<p align="center">
+  <a href="https://photo-gallery-xi-self.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/🚀%20VIEW%20LIVE%20PROJECT-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white"
+      height="45"
+      alt="View Live Project"
+    />
+  </a>
 </p>
 
 <br>
