@@ -310,7 +310,7 @@ Keeping interfaces clear, intuitive, and visually engaging.
 </p>
 
 <p align="center">
-  <a href="https://ayush-dev-portfolio-rho.vercel.app/">
+<a href="https://ayush-dev-portfolio-rho.vercel.app/">
     <img
       src="https://img.shields.io/badge/🚀%20PORTFOLIO-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white"
       alt="Portfolio"
