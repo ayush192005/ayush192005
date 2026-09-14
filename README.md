@@ -1,7 +1,7 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=2800&pause=1800&color=6C63FF&center=true&vCenter=true&repeat=true&width=900&height=70&lines=AYUSH+KUMAR+BANSAL;FRONTEND+DEVELOPER;CREATIVE+UI+%26+MOTION"
-    alt="Ayush Kumar Bansal — Frontend Developer — Creative UI & Motion"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=2000&pause=1200&color=00D9FF&center=true&vCenter=true&repeat=true&width=900&height=70&lines=AYUSH+%3E+FRONTEND;DESIGN+%3E+INTERACTION;CODE+%3E+CREATE"
+    alt="Ayush — Frontend Developer"
   />
 </h1>
 <p align="center">
