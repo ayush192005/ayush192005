@@ -4,7 +4,6 @@
     alt="Hi, I'm Ayush Kumar Bansal — Frontend Developer & Designer"
   />
 </h1>
-
 <p align="center">
   <strong>Frontend Developer · Creative UI · Interactive Experiences</strong>
 </p>
