@@ -261,21 +261,18 @@ Applying frontend skills to practical projects and interfaces.
 <br>
 
 ---
-
 ## 🚀 Featured Project
 
-<table>
-<tr>
-
-<td width="100%" valign="top">
-
-<h3>📸 Photo Gallery Website</h3>
+### 📸 Photo Gallery Website
 
 <p>
 Responsive image gallery built for desktop, tablet, and mobile.
 </p>
 
-<br>
+<table>
+<tr>
+
+<td width="55%" valign="top">
 
 <strong>Highlights</strong>
 
@@ -286,29 +283,31 @@ Responsive image gallery built for desktop, tablet, and mobile.
 • Interactive image sections  
 • Responsive layout  
 
-<br>
+</td>
+
+<td width="45%" valign="top">
 
 <strong>Built With</strong>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white">
-<img src="https://img.shields.io/badge/ScrollTrigger-111111?style=flat-square">
-<img src="https://img.shields.io/badge/Locomotive_Scroll-111111?style=flat-square">
-
-<br><br>
-
-<a href="https://photo-gallery-xi-self.vercel.app/">
-  <strong>🌐 View Live Project →</strong>
-</a>
+<code>HTML5</code>
+<code>CSS3</code>
+<code>JavaScript</code>
+<code>GSAP</code>
+<code>ScrollTrigger</code>
+<code>Locomotive Scroll</code>
 
 </td>
 
 </tr>
 </table>
+
+<p>
+<a href="https://photo-gallery-xi-self.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-111111?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo">
+</a>
+</p>
 
 <br>
 
