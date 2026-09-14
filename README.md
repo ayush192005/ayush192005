@@ -1,4 +1,20 @@
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&pause=1200&color=2E9EF7&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Ayush+Kumar+Bansal;Frontend+Developer" alt="Hi, I'm Ayush Kumar Bansal - Frontend Developer" /> </h1> <p align="center"> I build responsive, interactive websites with a focus on <strong>clean UI, smooth interactions, and purposeful animation.</strong> </p> <p align="center"> <strong>HTML · CSS · JavaScript · GSAP · ScrollTrigger</strong> </p> <p align="center"> <a href="https://ayush-dev-portfolio-rho.vercel.app/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"> </a> <a href="https://www.linkedin.com/in/bansal19/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/ayush192005" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushbansal19505@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p>
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&pause=1200&color=2E9EF7&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Ayush+Kumar+Bansal;Frontend+Developer" alt="Hi, I'm Ayush Kumar Bansal - Frontend Developer" /> </h1> 
+<p align="center"> I build responsive, interactive websites with a focus on <strong>clean UI, smooth interactions, and purposeful animation.</strong> </p> 
+
+<p align="center">
+  <a href="https://ayush-dev-portfolio-rho.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀%20PORTFOLIO-FF6B6B?style=for-the-badge&labelColor=FF6B6B&color=FF6B6B" height="55">
+  </a>
+  <a href="https://www.linkedin.com/in/bansal19/">
+    <img src="https://img.shields.io/badge/💼%20LINKEDIN-4D96FF?style=for-the-badge&labelColor=4D96FF&color=4D96FF" height="55">
+  </a>
+  <a href="https://github.com/ayush192005">
+    <img src="https://img.shields.io/badge/⚡%20GITHUB-6C63FF?style=for-the-badge&labelColor=6C63FF&color=6C63FF" height="55">
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushbansal19505@gmail.com">
+    <img src="https://img.shields.io/badge/✉️%20EMAIL-00B894?style=for-the-badge&labelColor=00B894&color=00B894" height="55">
+  </a>
+</p>
 
 <br>
 
