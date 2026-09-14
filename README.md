@@ -4,23 +4,53 @@
 
 <br>
 
+<h1 align="center">
+  👋 Hey, I'm Ayush Bansal
+</h1>
+
+<h3 align="center">
+  💻 Frontend Developer &nbsp; • &nbsp; 🎨 Graphic Designer
+</h3>
+
+<p align="center">
+  I build modern, responsive and visually engaging digital experiences.
+</p>
+
+<br>
+
 <p align="center">
   <a href="https://ayush-dev-portfolio-rho.vercel.app/">
-    <img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-6C5CE7?style=for-the-badge&labelColor=6C5CE7&color=6C5CE7"
+      height="55"
+    />
   </a>
 </p>
 
+<br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/bansal19/">
-    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      height="48"
+    />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
+
   <a href="https://github.com/ayush192005">
-    <img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/⚡%20GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white"
+      height="48"
+    />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
+
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushbansal19505@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-111111?style=flat-square&logo=gmail&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/✉️%20CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      height="48"
+    />
   </a>
 </p>
 
