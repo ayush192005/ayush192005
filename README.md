@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ayush-dev-portfolio-rho.vercel.app/">
+  <a href="https://personal-portfolio-pied-psi-17.vercel.app/">
     <img
       src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-6C5CE7?style=for-the-badge&labelColor=6C5CE7&color=6C5CE7"
       height="48"
@@ -310,7 +310,7 @@ Keeping interfaces clear, intuitive, and visually engaging.
 </p>
 
 <p align="center">
-<a href="https://ayush-dev-portfolio-rho.vercel.app/">
+<a href="https://personal-portfolio-pied-psi-17.vercel.app/">
     <img
       src="https://img.shields.io/badge/🚀%20PORTFOLIO-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white"
       alt="Portfolio"
