@@ -30,6 +30,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://ayush-dev-portfolio-rho.vercel.app/">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20MY%20PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore My Portfolio">
+  </a>
+</p>
+
 </div>
 
 <br>
