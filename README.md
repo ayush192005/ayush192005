@@ -1,274 +1,114 @@
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&pause=1200&color=2E9EF7&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Ayush+Kumar+Bansal;Frontend+Developer" alt="Hi, I'm Ayush Kumar Bansal - Frontend Developer" /> </h1> 
-<p align="center"> I build responsive, interactive websites with a focus on <strong>clean UI, smooth interactions, and purposeful animation.</strong> </p> 
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&pause=1200&color=2E9EF7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Ayush+Kumar+Bansal;Frontend+Developer+%26+Designer"
+    alt="Hi, I'm Ayush Kumar Bansal"
+  />
+</h1>
 
 <p align="center">
-  <a href="https://personal-portfolio-pied-psi-17.vercel.app">
+  <strong>Frontend Developer · Creative UI · Interactive Experiences</strong>
+</p>
+
+<p align="center">
+  I build responsive, interactive websites with clean UI,
+  smooth motion, and purposeful animation.
+</p>
+
+<p align="center">
+  <a href="https://ayush-dev-portfolio-rho.vercel.app/">
     <img
       src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-6C5CE7?style=for-the-badge&labelColor=6C5CE7&color=6C5CE7"
-      height="55"
+      height="48"
+      alt="Portfolio"
     />
   </a>
 </p>
-
-<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bansal19/">
     <img
-      src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      height="48"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
     />
   </a>
-  &nbsp;&nbsp;
-
+  &nbsp;
   <a href="https://github.com/ayush192005">
     <img
-      src="https://img.shields.io/badge/⚡%20GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white"
-      height="48"
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
     />
   </a>
-  &nbsp;&nbsp;
-
+  &nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushbansal19505@gmail.com">
     <img
-      src="https://img.shields.io/badge/✉️%20CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      height="48"
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
     />
   </a>
 </p>
-
-<br>
 
 ---
 
 ## 👨‍💻 About Me
 
-> BCA graduate from **Kurukshetra University** focused on building responsive,
-> interactive, and visually engaging web experiences.
+I'm a **BCA graduate from Kurukshetra University** focused on frontend development and creative web experiences.
 
-- 💻 Build **responsive and interactive websites** with HTML, CSS, and JavaScript
-- ✨ Enjoy working with **GSAP, ScrollTrigger, and smooth scrolling**
-- 🧩 Learn by **building, debugging, and improving** real projects
-- 🎯 Focused on **clean code, responsive design, and purposeful animation**
+I enjoy turning ideas into responsive interfaces with thoughtful interaction, clean structure, and purposeful motion.
 
-<br>
+- 💻 Building responsive websites with **HTML, CSS & JavaScript**
+- ✨ Creating interactive experiences with **GSAP & ScrollTrigger**
+- 🎨 Focused on clean UI, visual hierarchy, and responsive design
+- 🧩 Learning through real-world projects, debugging, and iteration
 
 ---
 
-## 🎯 What I'm Focused On
+## 🎯 What I Build
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>💻 Frontend Development</h3>
+### 💻 Frontend Development
 
-<p>
-Building responsive, accessible interfaces with clean structure and maintainable code.
-</p>
+Building responsive and accessible interfaces with clean structure and maintainable code.
 
-<p>
-<strong>Core:</strong> <code>HTML5</code> · <code>CSS3</code> · <code>JavaScript</code>
-</p>
+**Core**
 
-<p>
-<strong>Focus:</strong> Responsive Design · Semantic HTML · Clean Code
-</p>
+`HTML5` · `CSS3` · `JavaScript`
+
+**Focus**
+
+Responsive Design · Semantic HTML · Clean Code
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>✨ Creative UI & Motion</h3>
+### ✨ Creative UI & Motion
 
-<p>
-Creating purposeful interactions and motion that enhance usability without unnecessary distraction.
-</p>
+Adding interaction and animation where it improves the experience—not simply for decoration.
 
-<p>
-<strong>Tools:</strong> <code>GSAP</code> · <code>ScrollTrigger</code>
-</p>
+**Tools**
 
-<p>
-<strong>Focus:</strong> Smooth Scrolling · Scroll Animations · Interactive UI · Micro-interactions
-</p>
+`GSAP` · `ScrollTrigger` · `Locomotive Scroll`
+
+**Focus**
+
+Smooth Scrolling · Scroll Animation · Micro-interactions
 
 </td>
 
 </tr>
 </table>
 
-<br>
-
 ---
 
-## ⚙️ How I Build
-
-<table>
-<tr>
-
-<td align="center" width="15%">
-<h2>01</h2>
-<strong>PLAN</strong>
-</td>
-
-<td width="85%">
-<strong>Define the idea</strong><br>
-Define the idea, layout, content, and user flow.
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<h2>02</h2>
-<strong>STRUCTURE</strong>
-</td>
-
-<td>
-<strong>Build the foundation</strong><br>
-Build semantic HTML before adding visual details.
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<h2>03</h2>
-<strong>DESIGN</strong>
-</td>
-
-<td>
-<strong>Create the interface</strong><br>
-Create responsive layouts with clear visual hierarchy.
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<h2>04</h2>
-<strong>INTERACT</strong>
-</td>
-
-<td>
-<strong>Add meaningful motion</strong><br>
-Add JavaScript and animation where it improves the experience.
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<h2>05</h2>
-<strong>REFINE</strong>
-</td>
-
-<td>
-<strong>Test and improve</strong><br>
-Test responsiveness, fix issues, and clean the code.
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
----
-
-## 🛠️ Currently Building
-
-<p>
-I'm currently working on frontend projects that help me improve:
-</p>
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-<h3>📱 Responsive Layouts</h3>
-
-<p>
-Creating interfaces that work consistently across different screen sizes.
-</p>
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>🎨 Advanced CSS</h3>
-
-<p>
-Improving layout, styling, responsiveness, and visual hierarchy.
-</p>
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>⚡ JavaScript Interactions</h3>
-
-<p>
-Building interactive interfaces with JavaScript.
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<h3>✨ GSAP Animations</h3>
-
-<p>
-Exploring motion and animation for better user experiences.
-</p>
-
-</td>
-
-<td align="center">
-
-<h3>🖱️ Scroll Experiences</h3>
-
-<p>
-Building scroll-based interactions and immersive experiences.
-</p>
-
-</td>
-
-<td align="center">
-
-<h3>🌐 Real-World UI</h3>
-
-<p>
-Applying frontend skills to practical projects and interfaces.
-</p>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
----
 ## 🚀 Featured Project
 
-<h3>📸 Photo Gallery Website</h3>
+### 📸 Photo Gallery Website
 
-<p>
-A responsive image gallery designed for desktop, tablet, and mobile,
-with smooth scrolling, immersive animations, and interactive visual sections.
-</p>
+A responsive image gallery built for desktop, tablet, and mobile, combining immersive visuals with smooth scrolling and scroll-based animation.
 
 <table width="100%">
 <tr>
@@ -281,7 +121,7 @@ with smooth scrolling, immersive animations, and interactive visual sections.
 - Scroll-based animations
 - Interactive image sections
 - Fully responsive layout
-- Optimized for different screen sizes
+- Immersive visual presentation
 
 </td>
 
@@ -289,27 +129,17 @@ with smooth scrolling, immersive animations, and interactive visual sections.
 
 ### 🛠️ Built With
 
-<p>
-<code>HTML5</code>
-<code>CSS3</code>
-<code>JavaScript</code>
-<code>GSAP</code>
-<code>ScrollTrigger</code>
-<code>Locomotive Scroll</code>
-</p>
-
-<strong>Focus</strong>
-
-<p>
-Responsive Design · Motion · Interaction
-</p>
+`HTML5`  
+`CSS3`  
+`JavaScript`  
+`GSAP`  
+`ScrollTrigger`  
+`Locomotive Scroll`
 
 </td>
 
 </tr>
 </table>
-
-<br>
 
 <p align="center">
   <a href="https://photo-gallery-xi-self.vercel.app/">
@@ -321,13 +151,15 @@ Responsive Design · Motion · Interaction
   </a>
 </p>
 
-<br>
-
 ---
+
 ## 🧰 Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,gsap,git,github,vscode,vercel" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,gsap,git,github,vscode,vercel"
+    alt="My Tech Stack"
+  />
 </p>
 
 <table width="100%">
@@ -339,8 +171,6 @@ Responsive Design · Motion · Interaction
 
 `HTML5` · `CSS3` · `JavaScript`
 
-Responsive UI · Semantic HTML · Clean Code
-
 </td>
 
 <td width="33%" align="center">
@@ -349,17 +179,13 @@ Responsive UI · Semantic HTML · Clean Code
 
 `GSAP` · `ScrollTrigger`
 
-Smooth Motion · Scroll Animations · Micro-interactions
-
 </td>
 
 <td width="33%" align="center">
 
-### 🛠️ Tools
+### 🛠️ Development
 
 `Git` · `GitHub` · `VS Code` · `Vercel`
-
-Version Control · Development · Deployment
 
 </td>
 
@@ -373,54 +199,84 @@ Version Control · Development · Deployment
 
 `Locomotive Scroll`
 
-Smooth Scrolling · Parallax Effects
-
 </td>
 
 <td width="33%" align="center">
 
-### 🔄 Workflow
-
-Build · Debug · Refine
-
-Iterate · Optimize · Deploy
-
-</td>
-
-<td width="33%" align="center">
-
-### 🎨 Design Focus
+### 🎨 Design
 
 Responsive UI · Interaction
 
-Visual Hierarchy · User Experience
+</td>
+
+<td width="33%" align="center">
+
+### ⚡ Approach
+
+Build · Debug · Refine
 
 </td>
 
 </tr>
 </table>
-<br>
 
 ---
 
-## 🚀 What I Care About
+## ⚙️ How I Work
 
-<table>
+<table width="100%">
+<tr>
+
+<td align="center" width="20%">
+<strong>01</strong><br>
+PLAN
+</td>
+
+<td align="center" width="20%">
+<strong>02</strong><br>
+STRUCTURE
+</td>
+
+<td align="center" width="20%">
+<strong>03</strong><br>
+DESIGN
+</td>
+
+<td align="center" width="20%">
+<strong>04</strong><br>
+INTERACT
+</td>
+
+<td align="center" width="20%">
+<strong>05</strong><br>
+REFINE
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+<strong>Plan → Build → Design → Animate → Test → Improve</strong>
+</p>
+
+---
+
+## 💡 What I Care About
+
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
 ### 🧹 Clean Code
-
-Easy to understand and maintain.
+Writing code that is readable, structured, and maintainable.
 
 </td>
 
 <td width="50%" valign="top">
 
 ### 📱 Responsive Design
-
-Consistent experience across screen sizes.
+Creating consistent experiences across screen sizes.
 
 </td>
 
@@ -428,59 +284,52 @@ Consistent experience across screen sizes.
 
 <tr>
 
-<td valign="top">
+<td width="50%" valign="top">
 
-### ✨ Purposeful Animation
-
-Motion that improves the experience.
+### ✨ Purposeful Motion
+Using animation to improve interaction and visual feedback.
 
 </td>
 
-<td valign="top">
+<td width="50%" valign="top">
 
-### 🛠️ Practical Learning
-
-Building, debugging, and experimenting.
+### 🎯 User Experience
+Keeping interfaces clear, intuitive, and visually engaging.
 
 </td>
 
 </tr>
-
 </table>
-
-<br>
 
 ---
 
 ## 🤝 Let's Connect
 
-<p>
-If you're interested in frontend development, web design, or collaborating
-on a project, feel free to connect.
+<p align="center">
+  <strong>Interested in frontend development, web design, or collaboration?</strong>
 </p>
 
-<br>
+<p align="center">
+  <a href="https://ayush-dev-portfolio-rho.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/🚀%20PORTFOLIO-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/bansal19/">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushbansal19505@gmail.com">
+    <img
+      src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+</p>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/bansal19/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushbansal19505@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<a href="https://ayush-dev-portfolio-rho.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<sub>Frontend Developer · Responsive UI · Interactive Experiences</sub>
-
-</div>
+<p align="center">
+  <sub>Frontend Developer · Responsive UI · Interactive Experiences</sub>
+</p>
